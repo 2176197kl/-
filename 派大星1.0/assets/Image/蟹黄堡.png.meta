@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6a134ab8-8eef-4000-8887-96a088a9dcac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 501,
+  "height": 429,
+  "platformSettings": {},
+  "subMetas": {
+    "蟹黄堡": {
+      "ver": "1.0.4",
+      "uuid": "af1521bd-5b69-4f93-a307-4e498862a12b",
+      "rawTextureUuid": "6a134ab8-8eef-4000-8887-96a088a9dcac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 19,
+      "trimX": 0,
+      "trimY": 12,
+      "width": 496,
+      "height": 367,
+      "rawWidth": 501,
+      "rawHeight": 429,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "粉爱心",
+    "texture": "515641bd-f906-41fb-89c8-a7a541e00c31",
+    "atlas": "",
+    "rect": [
+      51,
+      47,
+      237,
+      206
+    ],
+    "offset": [
+      9.5,
+      10
+    ],
+    "originalSize": [
+      320,
+      320
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

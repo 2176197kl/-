@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "水母2",
+    "texture": "6d02a4c3-12d7-4055-827c-0c85761766b6",
+    "atlas": "",
+    "rect": [
+      115,
+      78,
+      293,
+      276
+    ],
+    "offset": [
+      1,
+      28
+    ],
+    "originalSize": [
+      521,
+      488
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

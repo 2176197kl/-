@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "重新开始图标",
+    "texture": "a40fdf43-aa53-479e-8ab3-01c138371c69",
+    "atlas": "",
+    "rect": [
+      83,
+      309,
+      667,
+      215
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      834,
+      834
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

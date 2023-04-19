@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ac28aa79-13d8-46cb-84ba-6297b5a189a8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 580,
+  "height": 464,
+  "platformSettings": {},
+  "subMetas": {
+    "通往菠萝屋之路": {
+      "ver": "1.0.4",
+      "uuid": "ef5ce1ec-b591-4830-bb41-5b1ca840bac6",
+      "rawTextureUuid": "ac28aa79-13d8-46cb-84ba-6297b5a189a8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 580,
+      "height": 464,
+      "rawWidth": 580,
+      "rawHeight": 464,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

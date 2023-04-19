@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "海滩背景",
+    "texture": "e34d887a-25b5-487f-99bb-f0985dba3c93",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      832,
+      1031
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      832,
+      1031
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

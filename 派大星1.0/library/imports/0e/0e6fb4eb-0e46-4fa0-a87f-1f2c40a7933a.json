@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kl图标",
+    "texture": "d850ac23-f7ad-49c3-8e9a-fe9e48977dd1",
+    "atlas": "",
+    "rect": [
+      0,
+      11,
+      243,
+      89
+    ],
+    "offset": [
+      -3.5,
+      -5.5
+    ],
+    "originalSize": [
+      250,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

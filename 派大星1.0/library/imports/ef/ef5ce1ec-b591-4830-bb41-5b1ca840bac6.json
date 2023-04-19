@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "通往菠萝屋之路",
+    "texture": "ac28aa79-13d8-46cb-84ba-6297b5a189a8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      580,
+      464
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      580,
+      464
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

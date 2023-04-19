@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "蟹黄堡",
+    "texture": "6a134ab8-8eef-4000-8887-96a088a9dcac",
+    "atlas": "",
+    "rect": [
+      0,
+      12,
+      496,
+      367
+    ],
+    "offset": [
+      -2.5,
+      19
+    ],
+    "originalSize": [
+      501,
+      429
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "挂灯装饰的家园",
+    "texture": "61f71cea-c1ae-4b19-8dde-79e6bc20bad6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      400,
+      320
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      400,
+      320
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

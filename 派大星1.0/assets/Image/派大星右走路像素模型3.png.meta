@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "da116848-2d02-4cdb-b50c-6eebbe7cd558",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 200,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "派大星右走路像素模型3": {
+      "ver": "1.0.4",
+      "uuid": "1131fe10-1f99-4fe3-a5d2-ab19ad1ef345",
+      "rawTextureUuid": "da116848-2d02-4cdb-b50c-6eebbe7cd558",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 16.5,
+      "offsetY": 7,
+      "trimX": 52,
+      "trimY": 18,
+      "width": 129,
+      "height": 250,
+      "rawWidth": 200,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

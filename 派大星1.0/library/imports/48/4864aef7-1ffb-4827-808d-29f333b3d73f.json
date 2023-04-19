@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "停止背景音乐图标",
+    "texture": "5ac97609-c4b0-4674-8683-78f9631b8dd9",
+    "atlas": "",
+    "rect": [
+      33,
+      9,
+      782,
+      783
+    ],
+    "offset": [
+      7,
+      16.5
+    ],
+    "originalSize": [
+      834,
+      834
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

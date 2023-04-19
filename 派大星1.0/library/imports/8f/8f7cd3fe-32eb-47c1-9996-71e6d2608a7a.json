@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "红爱心",
+    "texture": "a03b4cb4-c6a2-4d5c-9970-39507e4906c9",
+    "atlas": "",
+    "rect": [
+      78,
+      105,
+      357,
+      302
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

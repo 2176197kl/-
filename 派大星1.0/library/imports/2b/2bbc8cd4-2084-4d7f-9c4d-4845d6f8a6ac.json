@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "可乐70x70",
+    "texture": "37fbc03c-6f86-463d-993c-41e0a7406ccc",
+    "atlas": "",
+    "rect": [
+      11,
+      0,
+      48,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

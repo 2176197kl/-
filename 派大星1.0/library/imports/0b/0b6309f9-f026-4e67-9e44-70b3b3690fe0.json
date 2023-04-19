@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "继续游戏图标",
+    "texture": "6e80b708-8f94-4aeb-a989-94a1a644b296",
+    "atlas": "",
+    "rect": [
+      83,
+      309,
+      667,
+      215
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      834,
+      834
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

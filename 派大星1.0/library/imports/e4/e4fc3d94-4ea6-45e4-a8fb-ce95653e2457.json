@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "像素-雪花",
+    "texture": "cd97a5e8-c7fb-4e38-b80c-e004363069eb",
+    "atlas": "",
+    "rect": [
+      10,
+      10,
+      140,
+      140
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      160
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

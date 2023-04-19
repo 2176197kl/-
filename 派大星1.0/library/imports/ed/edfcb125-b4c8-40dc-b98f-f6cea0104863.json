@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "派大星右走路像素模型2",
+    "texture": "908a1443-fca1-4b0b-be7f-55a803ec1e62",
+    "atlas": "",
+    "rect": [
+      14,
+      18,
+      166,
+      250
+    ],
+    "offset": [
+      -3,
+      7
+    ],
+    "originalSize": [
+      200,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

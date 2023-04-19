@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "右走",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.21666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e0983a35-e38a-4369-8b65-f2818a33a850"
+            }
+          },
+          {
+            "frame": 0.11666666666666667,
+            "value": {
+              "__uuid__": "1131fe10-1f99-4fe3-a5d2-ab19ad1ef345"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "57953459-e6d4-4a3c-828c-168fa45aab19"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

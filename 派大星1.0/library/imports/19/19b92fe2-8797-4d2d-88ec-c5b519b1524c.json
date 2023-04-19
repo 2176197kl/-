@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "珊瑚背景",
+    "texture": "b8b90f9d-6cc4-406c-9c03-c138964ba490",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1080,
+      909
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1080,
+      909
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

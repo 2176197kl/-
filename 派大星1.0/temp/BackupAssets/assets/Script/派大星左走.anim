@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "派大星左走",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "efec96fe-e1e9-4185-8b8e-54dd7a18dca9"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "25b80a34-dd66-4204-9465-947297c66ec6"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "d0ed69b3-3e98-4f3d-b0d8-ee9ebe0af473"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
